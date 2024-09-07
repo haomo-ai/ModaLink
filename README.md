@@ -19,10 +19,10 @@ The main contributions of this work are:
 ## Citation
 If you use our implementation in your academic work, please cite the corresponding [paper](https://arxiv.org/abs/2403.18762):
 ```
-@article{xie2024modalink,
+@inproceedings{xie2024modalink,
 	author   = {Weidong Xie and Lun Luo and Nanfei Ye and Yi Ren and Shaoyi Du and Minhang Wang and Jintao Xu and Rui Ai and Weihao Gu and Xieyuanli Chen},
 	title    = {{ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition}},
-	journal  = {In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+	booktitle  = {In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
 	year     = {2024},
 }
 ```
